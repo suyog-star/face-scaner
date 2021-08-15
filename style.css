@@ -1,0 +1,24 @@
+body {
+    background-color:skyblue;
+    color: white;
+}
+
+.cla {
+    width:80%;
+    font-size: 22px;
+
+}
+
+.name_of_objects {
+ color:darkcyan;
+
+}
+#camera {
+    width:350px;
+    height:300px;
+    border:2px dashed red;
+}
+#inside_p,#outside_p {
+    color:darkblue;
+
+}
